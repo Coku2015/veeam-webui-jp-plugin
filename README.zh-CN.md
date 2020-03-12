@@ -1,4 +1,4 @@
-# Japanese UI Plugin for Veeam Enterprise Manager (Google Chrome Extension)
+# Chinese UI Plugin for Veeam Enterprise Manager (Google Chrome Extension)
 
 适用于Google Chrome的插件可以使用日语版的Veeam Enterprise Manager（用于用户备份和还原的WebUI）
 
